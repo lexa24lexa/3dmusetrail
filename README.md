@@ -28,6 +28,7 @@ Render: [3D Muse trail deployed](https://threedmusetrail.onrender.com/)
 This took me more than 6 hours but i had fun doing this. - *sound of happy clapping hands*.
 
 **Another side note i forgot to mention**
+<br>
 Only works in a desktop, obviously. No mobile nor tablet. As i mentioned before, in our meeting, i am not a fan of tailwind. :)
 <br>
 still, i gave my best.
