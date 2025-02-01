@@ -31,7 +31,7 @@ scene.add(ambientLight);
 const loader = new GLTFLoader();
 let model;
 
-loader.load('models/3dgallery.glb', (gltf) => {
+loader.load('/models/3dgallery.glb', (gltf) => {
     model = gltf.scene;
     scene.add(model);
 
