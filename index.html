@@ -3,8 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="main.css" />
+    <meta name="description" content="A 3D experience using Three.js for MuseTrail." />
     <title>3D w/Three.js</title>
+    <link rel="stylesheet" type="text/css" href="main.css" />
   </head>
   <body>
     <header>
@@ -13,14 +14,21 @@
       </nav>
     </header>
 
-    <canvas id="three-canvas"></canvas>
-    <button id="toggleView">+</button>
-    <div id="controls" class="hidden">
-      <button id="rotateLeft" class="control-button">←</button>
-      <button id="rotateRight" class="control-button">→</button>
-    </div>
-    
-    <footer>© made by Alexandra Smirnova.</footer>
+    <main>
+      <canvas id="three-canvas"></canvas>
+      
+      <button id="toggleView" aria-label="Toggle 3D Controls">+</button>
+      
+      <div id="controls" class="hidden">
+        <button id="rotateLeft" class="control-button" aria-label="Rotate Left">←</button>
+        <button id="rotateRight" class="control-button" aria-label="Rotate Right">→</button>
+      </div>
+    </main>
+
+    <footer>
+      <small>© made by Alexandra Smirnova.</small>
+    </footer>
+
     <script type="module" src="script.js"></script>
   </body>
 </html>

@@ -39,7 +39,7 @@ header, .navbar {
 
 #three-canvas {
     flex-grow: 1;
-    width: 80%;
+    width: 100%;
     height: calc(100vh - 50px - 40px);
     display: block;
 }
