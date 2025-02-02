@@ -7,7 +7,7 @@ smir0002@hz.nl & xanasmirnova24@gmail.com
 <br>
 Student ID: 094881
 <br>
-Github: [lexa24lexa](https://github.com/lexa24lexa)
+Github account: [lexa24lexa](https://github.com/lexa24lexa)
 
 **How did i imagine this website (and experience) to look?**
 <br>
@@ -18,6 +18,10 @@ Figma design: [simple & basic design](https://www.figma.com/design/tbuCA9wzVzQFc
 npm install
 <br>
 npx vite
+
+**Github**
+<br>
+Github repository: [3dmusetrail](https://github.com/lexa24lexa/3dmusetrail.git)
 
 **It even cames deployed? (wow)**
 <br>
