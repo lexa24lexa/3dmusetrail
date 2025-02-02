@@ -35,4 +35,4 @@ This took me more than 6 hours but i had fun doing this. - *sound of happy clapp
 <br>
 Only works in a desktop, obviously. No mobile nor tablet. As i mentioned before, in our meeting, i am not a fan of tailwind. :)
 <br>
-still, i gave my best.
+Still, i gave my best.
